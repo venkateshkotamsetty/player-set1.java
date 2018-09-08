@@ -12,7 +12,7 @@ class Ideone
 		String s1,s2;
 		Scanner s=new Scanner(System.in);
 		s1=s.next();
-		s2=" ";
+		s2="";
 		 char a[]=s1.toCharArray();
 		 for(int i=s1.length()-1;i>=0;i--)
 		 {
